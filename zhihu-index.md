@@ -84,6 +84,10 @@
 - [C++ 性能压榨之 switch](https://zhuanlan.zhihu.com/p/38139553)
   - 对`switch`的常见实现做了解析
 
+## 实现解析
+- [fbstring的实现解析](https://www.zhihu.com/question/54664311/answer/1978680475)
+  -  全面解析了fbstring的实现，介绍了一些常见的概念，如`sso`，`cow`等
+
 ## 趣味阅读
 - [C++ 有多难？](https://www.zhihu.com/question/30196513/answer/563560938)
   - 从**构造函数**的编写作为切入点，论证了`C++`的**难**
